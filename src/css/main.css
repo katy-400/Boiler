@@ -7,6 +7,16 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
+<style>
+body {
+    background-color: linen;
+    }
+
+    h1 {
+        color: maroon;
+	    margin-left: 40px;
+	    }
+</style>
 
 html {
     color: #222;
